@@ -1,0 +1,30 @@
+{
+    "posts": [
+        {
+            "firstName": "Imran",
+            "userName":"imran123",
+            "lastName": "H",
+            "emailId": "igran@gamil.com",
+            "id": 1
+        },
+        {
+            "id": 2,
+            "firstName": "Irfan",
+            "lastName": "H",
+            "userName":"irfan123",
+            "emailId": "irfan@gamil.com",
+            "date": "23/03/1994",
+            "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, ..."
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
